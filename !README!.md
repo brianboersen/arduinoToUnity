@@ -5,8 +5,8 @@ In dit project verbind ik de arduino met joystick naar unity en daar mee draai i
 1. arduino
 2. Assets
 3. 
-  -script 
-  -arduinoScript
+  *script 
+  *arduinoScript
   
 ### unity settings
 als je de code werkend wil krijgen moet je de volgende stappen volgen:
