@@ -14,8 +14,8 @@ als je de code werkend wil krijgen moet je de volgende stappen volgen:
 
 2.project settings
 
-3.onder optimization bij api compatibility level zet van .Net 2.0 Subset naar .Net 2.0.
+3.onder optimization bij api compatibility level zet van .Net 2.0 Subset naar .Net 2.0
 
-4. bij de code gebruik ik 'com7' verander dat naar de com die jij gebruikt.
+4. bij de code gebruik ik 'com7' verander dat naar de com die jij gebruikt
 
   
