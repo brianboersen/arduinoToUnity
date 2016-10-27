@@ -4,9 +4,7 @@ In dit project verbind ik de arduino met joystick naar unity en daar mee draai i
 ### om bij de code te komen
 1. arduino
 2. Assets
-3. 
-*script 
-*arduinoScript
+3. script of arduinoScript
   
 ### unity settings
 als je de code werkend wil krijgen moet je de volgende stappen volgen:
