@@ -1,6 +1,6 @@
 # arduinoToUnity
 Hoi dit is mijn **arduinoToUnity** project.
-In dit project verbind ik de arduino met joystick naar uniy en daar mee draai ik een blockje.
+In dit project verbind ik de arduino met joystick naar unity en daar mee draai ik een blockje.
 ### om bij de code te komen
 1. arduino
 2. Assets
